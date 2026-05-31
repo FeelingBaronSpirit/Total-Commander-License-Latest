@@ -22,4 +22,4 @@ Core Capabilities
 - Extensive plugin support to extend functionality and integrate additional features.
 
 TAGS
-file management, dual pane file explorer, windows software, productivity tools, data organization               
+file management, dual pane file explorer, windows software, productivity tools, data organization                
